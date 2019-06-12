@@ -1,0 +1,3 @@
+﻿Vì folder tụi em làm lớn hơn 10MB nên không nộp ở Moodle được thầy ơi.
+
+Link github: https://github.com/khtrieu1102/SocketHTTP
