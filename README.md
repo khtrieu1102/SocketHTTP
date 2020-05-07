@@ -1,4 +1,4 @@
 # SocketHTTP
 
-Mạng máy tính 2016.
+Mạng máy tính 2018.
 Socket nhóm, về cách tạo giao thức socket http
